@@ -1,4 +1,10 @@
-### Hi there 👋
+## Yeonju Kim (김연주, 金妍住) 
+
+
+#### Email: iamkimyeonju@gmail.com
+#### Website:[My Page](https://iamkimyeonju.github.io/)
+
+
 
 <!--
 **iamkimyeonju/iamkimyeonju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
