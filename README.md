@@ -9,7 +9,8 @@ B.E. Yeungnam University, South Korea, Department of Civil Engineering (2016-202
 
 
 ### How to reach me
-
+I only upload the code that has been published. 
+If you have any questions about ongoing projects, please contact me directly.
 Email is the best way to reach me, I will reply within a few days.
 
 ##### Email: iamkimyeonju@gmail.com
